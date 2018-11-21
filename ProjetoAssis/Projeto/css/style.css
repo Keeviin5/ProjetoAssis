@@ -12,7 +12,8 @@ Projeto Assis
 body{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em; /*1 em = 16px */
-	background-color: red;
+	background-color: white;
+
 } 
 
 
@@ -160,7 +161,10 @@ footer img{
 	@media screen and (max-width: 768){
 		img{
 			max-width: 100%;
+
 		}
+
+		
 
 
 	}
